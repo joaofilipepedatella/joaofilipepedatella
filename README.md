@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I'm Joao Filipe 👋
-<p>👋 A 34-year-old technology enthusiast</p>
+<p>👋 A 35-year-old technology enthusiast</p>
 <p>🚀 Currently, I'm a Front-End Developer, and my goal is walk in the way to be a Full-Stack. I've already mastered HTML, CSS, JavaScript, Bootstrap, ReactJS and learning PHP and MySQL now.<p>
 <p>💻 I like solving problems and facing challenges head on. I'm not afraid to ask questions, learn from mistakes and look for solutions. Every question is a learning opportunity!<p>
 <br>
